@@ -34,6 +34,7 @@ jobs:
           TARGET_EMAIL: ${{ secrets.TARGET_EMAIL }}
           PYTHONPATH: src
         run: |
-          # Automatically determine the current ISO week
-          ISO_WEEK=$(date +%G-W%V)
+          # Automatically determine the previous ISO week
+          # (since this runs on Monday to report on the past week)
+          ISO_WEEK=$(date -d "last week" +%G-W%V)
           python -m pulse.cli run --product groww --week $ISO_WEEK
