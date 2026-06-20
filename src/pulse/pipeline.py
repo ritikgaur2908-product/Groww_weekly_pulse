@@ -9,6 +9,7 @@ from pulse.reasoning.orchestrator import PulseOrchestrator
 from pulse.config import settings
 from pulse.output.renderer import render_markdown_doc, render_email_html
 from pulse.output.mcp_client import MCPClient
+from pulse.output.github_client import upload_to_github
 from pulse.auditing import log_audit_record
 
 logger = logging.getLogger(__name__)
@@ -81,7 +82,17 @@ def run_pulse_pipeline(product: str, week: str = None, end_date_override: dateti
     
     logger.info(f"Saving final Pulse Report to {report_filename}...")
     with open(report_filename, "w", encoding="utf-8") as f:
-        f.write(report.model_dump_json(indent=2))
+        json_content = report.model_dump_json(indent=2)
+        f.write(json_content)
+        
+    # NEW: Push to GitHub if configured (useful for ad-hoc UI reports on Railway)
+    if settings.github_token and settings.github_repo:
+        upload_to_github(
+            token=settings.github_token,
+            repo=settings.github_repo,
+            file_path=report_filename,  # Format: data/reports/...json
+            content=json_content
+        )
         
     # 4. Delivery / Handoff via MCP Server
     doc_id = settings.target_doc_id

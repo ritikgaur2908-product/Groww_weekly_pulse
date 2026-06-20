@@ -10,6 +10,8 @@ class Settings(BaseSettings):
     target_doc_id: str = ""
     target_email: str = ""
     max_reviews_budget: int = 500
+    github_token: str = ""
+    github_repo: str = "ritikgaur2908-product/Groww_weekly_pulse"
 
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
 
