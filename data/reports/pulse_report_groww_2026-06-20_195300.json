@@ -1,0 +1,93 @@
+{
+  "product_name": "Groww",
+  "start_date": "2026-04-25T19:52:53.675558",
+  "end_date": "2026-06-20T19:52:53.675558",
+  "stats": {
+    "total_reviews": 200,
+    "average_rating": 3.6
+  },
+  "rating_distribution": {
+    "stars_1": 26.5,
+    "stars_2": 5.5,
+    "stars_3": 3.0,
+    "stars_4": 10.5,
+    "stars_5": 54.5
+  },
+  "themes": [
+    {
+      "cluster_id": 2,
+      "theme_name": "Brokerage and Support",
+      "theme_summary": "Users are expressing dissatisfaction with the brokerage fees and are seeking better support from the app, including a call centre facility and more reasonable charges for intraday trading. The overall sentiment is mixed, with some users having a positive experience and others facing issues.",
+      "quotes": [
+        "why do you need 20 rupees of brokerage in intraday? even 5 rupees will be enough for your profits",
+        "please reduce the brokerage to 15₹",
+        "call centre facility required"
+      ],
+      "action_ideas": [
+        "Review and adjust brokerage fees to be more competitive and user-friendly",
+        "Implement a call centre facility or improve existing customer support channels",
+        "Simplify the process for users to reactivate their accounts"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "theme_name": "Ease of Use",
+      "theme_summary": "The majority of users find the app easy to use and navigate, but one user had a severely negative experience with the company's investment and customer support practices. This contrast highlights the need for the product team to address both usability and trust issues.",
+      "quotes": [
+        "very easy to invest",
+        "easy to use and simple UI",
+        "Very bad app. Please dont invest in this as this is a fraud company."
+      ],
+      "action_ideas": [
+        "Simplify the investment process further to reduce user friction",
+        "Improve customer support responsiveness and transparency, especially regarding tax deductions and complaints",
+        "Conduct an audit to ensure the company is complying with all financial regulations and being transparent with users"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "theme_name": "App Experience",
+      "theme_summary": "The reviews express a mix of positive and negative sentiments about the app, with some users finding it helpful and others experiencing bugs or difficulties with setup. Overall, the theme revolves around the users' experience with the app's functionality and usability.",
+      "quotes": [
+        "Hii groww, it's a great app but I have found bug problem during my app settings . how to solve the problem. please give some feedback.",
+        "Worst experience. It was much better. I'm unable to setup autopay for SIP. It asks once, if you miss it, only God knows where to find it.",
+        "i already installed groww app but still i am receiving notifications to reinstall groww app please secure and protect my device from any misuse payment towards any unknown person or entity."
+      ],
+      "action_ideas": [
+        "Improve the app's setup process to reduce user frustration",
+        "Enhance bug fixing and troubleshooting mechanisms",
+        "Optimize notification settings to prevent unnecessary reinstall prompts"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "theme_name": "High Brokerage Fees",
+      "theme_summary": "Users are unhappy with the high brokerage charges and fees associated with using the app, which is affecting their trading experience. This is leading to a negative sentiment towards the app.",
+      "quotes": [
+        "Brokerage is too High compared to other apps",
+        "too much brokerage",
+        "intraday very High Charges"
+      ],
+      "action_ideas": [
+        "Review and adjust the brokerage fee structure to be more competitive with other apps",
+        "Provide more transparent and clear information about the fees and charges associated with using the app",
+        "Consider offering discounts or promotions to loyal customers or frequent traders"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "theme_name": "Best Trading App",
+      "theme_summary": "Users overwhelmingly praise the app for its ease of use and effectiveness in trading and investment, with many reporting significant earnings. The app's user-friendly nature is particularly appreciated by beginners.",
+      "quotes": [
+        "best app for trading and easy to operate",
+        "best trading app I have earned 4 lakh from this app thank you",
+        "beginner ke liye best app 👍👍❤️❤️❤️"
+      ],
+      "action_ideas": [
+        "Enhance the app's educational resources to further support beginners",
+        "Continuously monitor and improve the app's trading and investment features",
+        "Consider adding more features to cater to advanced users while maintaining the app's user-friendly interface"
+      ]
+    }
+  ]
+}

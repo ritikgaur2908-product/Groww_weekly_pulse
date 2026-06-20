@@ -1,0 +1,93 @@
+{
+  "product_name": "Groww",
+  "start_date": "2026-04-25T19:41:02.907197",
+  "end_date": "2026-06-20T19:41:02.907197",
+  "stats": {
+    "total_reviews": 200,
+    "average_rating": 3.6
+  },
+  "rating_distribution": {
+    "stars_1": 26.5,
+    "stars_2": 5.5,
+    "stars_3": 3.0,
+    "stars_4": 10.5,
+    "stars_5": 54.5
+  },
+  "themes": [
+    {
+      "cluster_id": 2,
+      "theme_name": "Poor Customer Support",
+      "theme_summary": "The overarching theme of these reviews is the poor customer support and technical issues experienced by users, leading to frustration and dissatisfaction. This has resulted in a negative perception of the app's reliability and usability.",
+      "quotes": [
+        "The worst app I have ever seen in my whole life The cheater sala bought it but when I sell the app glitch and also customer care support not attending any calls or response",
+        "worst customer care service",
+        "very poor service today in terms of help of customer care"
+      ],
+      "action_ideas": [
+        "Improve customer support response times and effectiveness",
+        "Address and resolve technical issues such as glitches and charging problems",
+        "Enhance user experience through better app design and functionality"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "theme_name": "Ease of Use",
+      "theme_summary": "The majority of users find the app easy to use and navigate, but one user had a severely negative experience with the company's business practices. The overall sentiment is positive, with many users praising the app's simplicity.",
+      "quotes": [
+        "very easy to invest",
+        "easy to use and simple UI",
+        "Very bad app. Please dont invest in this as this is a fraud company"
+      ],
+      "action_ideas": [
+        "Simplify the investment process further to reduce user friction",
+        "Improve customer support to address user complaints in a timely manner",
+        "Review and refine business practices to prevent fraudulent activities and ensure transparency"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "theme_name": "App Experience Issues",
+      "theme_summary": "Users are experiencing various issues with the app, including reliability problems, difficulties with certain features, and frustration with the user interface. These issues are affecting the overall user experience and satisfaction with the app.",
+      "quotes": [
+        "Worst experience. It was much better. I'm unable to setup autopay for SIP. It asks once, if you miss it, only God knows where to find it.",
+        "Needs to improve Options trading features.. 1. Hangs when market gets huge txns. 2. Target or Stop Loss handles only Qty of 1755 in Scalper mode...",
+        "your limit order is not working in options chains please try to fix it as may as possible"
+      ],
+      "action_ideas": [
+        "Improve the reliability of charts and data to match external sources like Trading view",
+        "Enhance the user interface to make features like autopay for SIP and limit orders in options chains more accessible and functional",
+        "Introduce new features like auto-set stop loss for options trading to improve the user experience"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "theme_name": "High Brokerage Charges",
+      "theme_summary": "Users are unhappy with the high brokerage charges and fees associated with using the app, which is affecting their investment experience. The charges are perceived as excessive and not transparent.",
+      "quotes": [
+        "intraday very High Charges",
+        "Brokerage is too High compared to other apps",
+        "They charged more than 1.1k"
+      ],
+      "action_ideas": [
+        "Review and adjust brokerage charges to be more competitive with other apps",
+        "Improve transparency around charges and fees, providing clear documentation and explanations",
+        "Consider offering more flexible pricing plans or discounts for frequent users"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "theme_name": "Best Trading App",
+      "theme_summary": "Users are extremely satisfied with the app's trading and investment features, finding it easy to use and profitable. The overall sentiment is overwhelmingly positive, with many users considering it the best app for their investment needs.",
+      "quotes": [
+        "best app for trading and easy to operate",
+        "best trading app I have earned 4 lakh from this app thank you",
+        "beginner ke liye best app 👍👍❤️❤️❤️"
+      ],
+      "action_ideas": [
+        "Continue to enhance and simplify the trading and investment features to maintain user satisfaction",
+        "Consider adding more educational resources for beginners to further improve the user experience",
+        "Explore ways to expand the app's capabilities to meet the evolving needs of its user base"
+      ]
+    }
+  ]
+}

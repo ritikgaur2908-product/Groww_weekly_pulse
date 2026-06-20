@@ -1,0 +1,93 @@
+{
+  "product_name": "Groww",
+  "start_date": "2026-04-25T19:47:54.178341",
+  "end_date": "2026-06-20T19:47:54.178341",
+  "stats": {
+    "total_reviews": 200,
+    "average_rating": 3.6
+  },
+  "rating_distribution": {
+    "stars_1": 26.5,
+    "stars_2": 5.5,
+    "stars_3": 3.0,
+    "stars_4": 10.5,
+    "stars_5": 54.5
+  },
+  "themes": [
+    {
+      "cluster_id": 2,
+      "theme_name": "Mixed App Experience",
+      "theme_summary": "Users have expressed a wide range of sentiments about the app, from extremely positive to very negative, highlighting both excellent user experience and significant service issues. The feedback indicates a need for improvement in areas like customer care and brokerage fees.",
+      "quotes": [
+        "Very clean and beginner friendly interface, which led me to start investing small amounts in mutual funds and stocks without even knowing how it works",
+        "In commodity Trade its not exit very worst service",
+        "please reduce the brokerage to 15₹"
+      ],
+      "action_ideas": [
+        "Improve customer care service to address user complaints and provide timely support",
+        "Review and potentially adjust brokerage fees to enhance user satisfaction and competitiveness",
+        "Enhance the app's functionality, especially in areas like commodity trading, to meet user expectations"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "theme_name": "Ease of Use",
+      "theme_summary": "The majority of users find the app easy to use and navigate, but one user had a severely negative experience with the company's investment practices. The app's simplicity is a major strength, but there are concerns about the company's reliability and trustworthiness.",
+      "quotes": [
+        "very easy to invest",
+        "easy to use and simple UI",
+        "Very bad app. Please dont invest in this as this is a fraud company."
+      ],
+      "action_ideas": [
+        "Conduct a thorough review of the company's investment practices to ensure transparency and compliance with regulations",
+        "Improve the app's support and complaint resolution process to address user concerns more efficiently",
+        "Consider adding more educational resources or warnings about the risks associated with investing in bonds and other financial products"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "theme_name": "App Feedback",
+      "theme_summary": "The reviews express overall satisfaction with the app, but also highlight some areas for improvement, such as the reliability of charts and the limit on wishlists. Users are providing suggestions to enhance their experience.",
+      "quotes": [
+        "all things are good, it's been 2 years I am using this groww app, I've been investing, trading, there is no glitch or mistake about the transferring the money, but there is one thing, there will be a option in which we can make the wishlist of the stocks, but it has a limit of 10 wishlists, better lift that limit",
+        "Groww's chart is not reliable, some charts are much different from Trading view's chart. Also add 2 Hour time frame",
+        "i already installed groww app but still i am receiving notifications to reinstall groww app please secure and protect my device from any misuse payment towards any unknown person or entity"
+      ],
+      "action_ideas": [
+        "Increase the limit on wishlists or remove it altogether to provide more flexibility to users",
+        "Improve the reliability of charts and consider adding more time frames, such as a 2-hour time frame",
+        "Enhance the app's notification system to prevent unnecessary reinstall notifications"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "theme_name": "High Brokerage Charges",
+      "theme_summary": "Users are unhappy with the high brokerage charges and fees associated with using the app, particularly for services like mutual funds and intraday trading. This is leading to a negative experience and potential loss of customers.",
+      "quotes": [
+        "too much brokerage",
+        "For high brokerages and changing my Mutual funds to Demat without my consent.",
+        "I borrowed 10k and repaid it within a week, but they charged more than 1.1k."
+      ],
+      "action_ideas": [
+        "Review and adjust brokerage charges to be more competitive",
+        "Provide clear and transparent documentation of charges and fees",
+        "Consider offering discounts or promotions to loyal customers"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "theme_name": "Best Trading App",
+      "theme_summary": "Users are extremely satisfied with the app's trading and investment features, finding it easy to use and profitable. The overall sentiment is overwhelmingly positive, with many users considering it the best app for their investment needs.",
+      "quotes": [
+        "best app for trading and easy to operate",
+        "best trading app I have earned 4 lakh from this app thank you",
+        "beginner ke liye best app 👍👍❤️❤️❤️"
+      ],
+      "action_ideas": [
+        "Continue to enhance and simplify the trading and investment features to maintain user satisfaction",
+        "Consider adding educational resources for beginners to further improve the user experience",
+        "Explore ways to expand the app's functionality to cater to a broader range of investment needs"
+      ]
+    }
+  ]
+}

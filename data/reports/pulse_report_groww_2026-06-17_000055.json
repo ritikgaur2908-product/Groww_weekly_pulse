@@ -1,0 +1,93 @@
+{
+  "product_name": "Groww",
+  "start_date": "2026-04-20T00:00:00",
+  "end_date": "2026-06-15T00:00:00",
+  "stats": {
+    "total_reviews": 200,
+    "average_rating": 3.6
+  },
+  "rating_distribution": {
+    "stars_1": 26.5,
+    "stars_2": 5.5,
+    "stars_3": 3.0,
+    "stars_4": 10.5,
+    "stars_5": 54.5
+  },
+  "themes": [
+    {
+      "cluster_id": 2,
+      "theme_name": "Brokerage Fees Complaints",
+      "theme_summary": "Users are unhappy with the high brokerage fees charged by the app, which they feel is excessive and hinders their ability to trade effectively. They are requesting a reduction in these fees to make the app more competitive and user-friendly.",
+      "quotes": [
+        "why do you need 20 rupees of brokerage in intraday? even 5 rupees will be enough for your profits",
+        "please reduce the brokerage to 15₹",
+        "how will we do intraday when your brokerage is even higher than what we can earn by intraday"
+      ],
+      "action_ideas": [
+        "Review and adjust the brokerage fee structure to be more competitive with other trading apps",
+        "Consider offering tiered pricing or discounts for frequent traders",
+        "Provide more transparent and detailed information about the brokerage fees and how they are used"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "theme_name": "Ease of Use",
+      "theme_summary": "The majority of users find the app easy to use and navigate, but one user had a severely negative experience with the company's business practices. The overall sentiment is positive, with many users praising the app's simplicity.",
+      "quotes": [
+        "very easy to invest",
+        "easy to use and simple UI",
+        "Very bad app. Please dont invest in this as this is a fraud company"
+      ],
+      "action_ideas": [
+        "Simplify the investment process further to reduce user friction",
+        "Improve customer support to address and resolve user complaints in a timely manner",
+        "Review and refine business practices to prevent fraudulent activities and ensure transparency"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "theme_name": "Trading App Experience",
+      "theme_summary": "The overarching theme of these reviews is the users' experience with the trading app, including its features, usability, and potential issues. The core issue revolves around the app's functionality, user interface, and trustworthiness.",
+      "quotes": [
+        "there will be a option in which we can make the wishlist of the stocks, but it has a limit of 10 wishlists, better lift that limit",
+        "cash segment nifty indication very small, please midium size so can we saw correct",
+        "user trading data share with opraters like hrti ptv ltd, nk security and others... when u buy they dump"
+      ],
+      "action_ideas": [
+        "Increase the wishlist limit for stocks to improve user experience",
+        "Optimize the cash segment nifty indication for better visibility",
+        "Investigate and address concerns about data sharing and potential scams"
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "theme_name": "High Brokerage Fees",
+      "theme_summary": "Users are unhappy with the high brokerage charges compared to other apps, which is affecting their investment decisions. The excessive fees are a major concern for both new and existing investors.",
+      "quotes": [
+        "Brokerage is too High compared to other apps",
+        "too much brokerage",
+        "high brokerage charge"
+      ],
+      "action_ideas": [
+        "Review and adjust brokerage fees to be more competitive with other apps",
+        "Provide transparent and clear information about the fees associated with each investment option",
+        "Consider offering discounts or promotions to loyal customers or high-volume investors"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "theme_name": "Best Trading App",
+      "theme_summary": "Users are extremely satisfied with the app's trading and investment features, finding it easy to use and profitable. The overall sentiment is overwhelmingly positive, with many users considering it the best app for their investment needs.",
+      "quotes": [
+        "best app for trading and easy to operate",
+        "best trading app I have earned 4 lakh from this app thank you",
+        "beginner ke liye best app 👍👍❤️❤️❤️"
+      ],
+      "action_ideas": [
+        "Continue to enhance and simplify the trading and investment features to maintain user satisfaction",
+        "Consider adding educational resources for beginners to further improve the user experience",
+        "Explore ways to expand the app's capabilities to meet the evolving needs of its user base"
+      ]
+    }
+  ]
+}

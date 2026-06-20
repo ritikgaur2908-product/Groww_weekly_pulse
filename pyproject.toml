@@ -1,0 +1,33 @@
+[project]
+name = "weekly-product-review-pulse"
+version = "0.1.0"
+description = "Automated weekly pulse for public App Store and Google Play reviews"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.7.0",
+    "pydantic-settings>=2.2.0",
+    "google-play-scraper>=1.2.4",
+    "emoji>=2.11.1",
+    "sentence-transformers>=3.0.0",
+    "umap-learn>=0.5.6",
+    "scikit-learn>=1.4.0",
+    "groq>=0.9.0",
+    "tenacity>=8.3.0",
+    "requests>=2.31.0",
+    "typer>=0.12.0",
+    "fastapi>=0.111.0",
+    "uvicorn>=0.30.1"
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = []
