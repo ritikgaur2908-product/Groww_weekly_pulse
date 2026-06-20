@@ -2,7 +2,6 @@
 name = "weekly-product-review-pulse"
 version = "0.1.0"
 description = "Automated weekly pulse for public App Store and Google Play reviews"
-readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pydantic>=2.7.0",
