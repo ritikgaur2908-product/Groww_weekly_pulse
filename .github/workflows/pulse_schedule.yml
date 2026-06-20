@@ -10,6 +10,8 @@ on:
 jobs:
   run-pulse:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to push reports back to the repository
 
     steps:
       - name: Check out repository
@@ -38,3 +40,10 @@ jobs:
           # (since this runs on Monday to report on the past week)
           ISO_WEEK=$(date -d "last week" +%G-W%V)
           python -m pulse.cli run --product groww --week $ISO_WEEK
+
+      - name: Commit and push generated reports
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/reports/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-generate weekly pulse report" && git push)
