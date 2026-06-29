@@ -1,0 +1,213 @@
+{
+  "product_name": "Groww",
+  "start_date": "2026-05-04T00:00:00",
+  "end_date": "2026-06-29T00:00:00",
+  "stats": {
+    "total_reviews": 500,
+    "average_rating": 3.5
+  },
+  "rating_distribution": {
+    "stars_1": 29.6,
+    "stars_2": 5.4,
+    "stars_3": 3.6,
+    "stars_4": 8.6,
+    "stars_5": 52.8
+  },
+  "themes": [
+    {
+      "cluster_id": 1,
+      "theme_name": "Poor Customer Support",
+      "theme_summary": "The overarching theme of these reviews is the poor customer support and technical issues with the app, leading to a frustrating experience for users. This has resulted in a loss of trust and loyalty towards the app.",
+      "quotes": [
+        "pathetic app pathetic customer care service",
+        "Customer support is disappointing",
+        "Support agents often ignore concerns and act as if they are always right"
+      ],
+      "action_ideas": [
+        "Improve customer support responsiveness and resolution rates",
+        "Address technical issues such as glitches and inaccurate charts",
+        "Enhance user interface and experience to reduce frustration"
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "theme_name": "High Brokerage Charges",
+      "theme_summary": "Users are unhappy with the high brokerage charges levied by the app, feeling it eats into their profits and makes the experience less desirable. This sentiment is widespread and affects user satisfaction and trust in the platform.",
+      "quotes": [
+        "20 rupiya profit hoga toh dalali charge 18 rupiya 20-18=2 apke hat me dalali charge bohat jiyada hai",
+        "nice app but brokerage charger jasti hai",
+        "high brokerage charge"
+      ],
+      "action_ideas": [
+        "Review and adjust the brokerage charge structure to be more competitive and transparent",
+        "Consider offering tiered pricing or discounts for frequent traders to alleviate the burden of high charges",
+        "Improve communication around charges, ensuring users understand what they are paying for and why"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "theme_name": "Mixed Trading App Reviews",
+      "theme_summary": "The reviews express a mix of positive and negative sentiments about the trading app, with some users finding it useful for beginners and others criticizing its limitations and potential for overtrading. The app's suitability and quality are debated among users.",
+      "quotes": [
+        "This app is only for beginners I mean only beginners use this aap but please stop using this aap in your starting journey",
+        "you will not get proper info about your trade",
+        "very nice AAP"
+      ],
+      "action_ideas": [
+        "Improve the app's features to cater to advanced users and prevent overtrading",
+        "Enhance the user interface for easier handling and control",
+        "Provide more detailed information about trades to address user concerns"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "theme_name": "Mutual Fund Improvements",
+      "theme_summary": "Users are seeking improvements and transparency in the mutual fund investment process, including better expense ratio displays and more control over investment options. They also express concerns over unexpected charges and the transition to demat mode.",
+      "quotes": [
+        "Can you please release an option where I can order a reedem call on Mutual fund on a specific NAV",
+        "They did not provide any proper document or report explaining the charges",
+        "You need to urgently display the base expense ratio (BER) for better context"
+      ],
+      "action_ideas": [
+        "Add an option for users to order a redeem call on mutual funds based on a specific NAV",
+        "Display the base expense ratio (BER) for mutual funds to provide better context",
+        "Review and improve the transparency of charges and fees associated with mutual fund investments"
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "theme_name": "Positive App Experience",
+      "theme_summary": "Users are expressing overall satisfaction with the app, highlighting its niceness, safety, and positive experience. The reviews indicate a strong positive sentiment towards the app's performance and features.",
+      "quotes": [
+        "very nice trading app",
+        "Nice safe app",
+        "very nice plateform in limited charges"
+      ],
+      "action_ideas": [
+        "Continue to prioritize user experience and safety in future updates",
+        "Leverage the positive sentiment in marketing campaigns to attract new users",
+        "Gather more specific feedback to identify areas for further improvement"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "theme_name": "Ease of Use",
+      "theme_summary": "The overarching theme of these reviews is the ease of use and user interface of the app, with many users praising its simplicity and beginner-friendliness, but some criticizing recent changes that have made it more confusing. The core issue is the need to balance simplicity with feature richness.",
+      "quotes": [
+        "Earlier, the UI was much simpler and more user-friendly",
+        "Please add a toggle to hide F&O and Loan tabs",
+        "very simple to use"
+      ],
+      "action_ideas": [
+        "Simplify the UI by allowing users to customize their dashboard and hide unused tabs",
+        "Revert recent design changes that have made financial analysis more confusing",
+        "Conduct user testing to identify areas where the app can be made more intuitive for beginners"
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "theme_name": "App Usability Issues",
+      "theme_summary": "Users are experiencing various usability issues with the app, including lagging interfaces, difficulties with updating features, and unhelpful customer support. These issues are leading to frustration and a desire to switch to alternative apps.",
+      "quotes": [
+        "apart from being simple and easy to use it is the most useless app in terms of interface lagging problems",
+        "I will give it a 5 Star but I am not satisfied because of this i got this message from the groww app help team",
+        "coustomer care team is very very rude and irritated to update any things"
+      ],
+      "action_ideas": [
+        "Optimize the app's interface to reduce lag and improve overall performance",
+        "Implement more intuitive and user-friendly features for updating and editing existing settings, such as SIP amounts",
+        "Improve customer support by providing more helpful and courteous responses to user inquiries"
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "theme_name": "App Performance Issues",
+      "theme_summary": "Users are experiencing various performance issues with the app, including lags, errors, and inaccurate data display, which are affecting their trading decisions and overall experience. These issues are causing frustration and hindering the app's usefulness.",
+      "quotes": [
+        "So many lags and errors in showing real-time trades info of sellers and buyers. Can't trade properly due to improper content.",
+        "After the latest update, the app isn't working properly. Today's high and today's low prices are showing incorrect data. Please fix this bug ASAP as it affects trading decisions...",
+        "pls check the stock prices not showing accurately in the apps. chart highs and lows are being shown incorrectly in high and low section."
+      ],
+      "action_ideas": [
+        "Conduct a thorough review of the app's code to identify and fix bugs causing lags and errors",
+        "Improve data accuracy and synchronization to ensure real-time trades info and stock prices are displayed correctly",
+        "Optimize the app's performance to handle user traffic and market data updates efficiently"
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "theme_name": "App Performance Issues",
+      "theme_summary": "The overarching theme of these reviews is the poor performance of the app, including latency issues, hanging, and difficulties with buying and selling orders. This has led to a significant amount of user frustration and disappointment.",
+      "quotes": [
+        "worst trading application. too much latency issues.",
+        "after the update of application you are not able to exit tour trade easily as application hang so much...",
+        "This application doesn't deserve a single star. News was previously available but it's now disappeared."
+      ],
+      "action_ideas": [
+        "Optimize the app's performance to reduce latency and hanging issues",
+        "Improve the order execution process to prevent discrepancies in market rates",
+        "Reconsider the recent update and restore previously available features such as news"
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "theme_name": "Order Execution Issues",
+      "theme_summary": "Users are experiencing problems with the app's order execution, including auto-triggered orders, price discrepancies, and slow execution speeds, leading to significant losses. These issues are causing frustration and mistrust among users.",
+      "quotes": [
+        "orders auto triggered even when price is near but not engaged with your limit price",
+        "there is a consistent price gap of ₹2-₹3 between the price I order at and the price I get",
+        "They took my limit order and treated it as a market order, and the stop loss hit too quickly"
+      ],
+      "action_ideas": [
+        "Improve order execution algorithms to reduce slippage and ensure accurate pricing",
+        "Enhance the app's user interface to provide clearer order placement and tracking processes",
+        "Increase transparency and responsiveness of customer support to address user concerns"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "theme_name": "Trading Experience",
+      "theme_summary": "The reviews express a mix of positive and negative sentiments about the trading app, with some users praising its ease of use and profitability, while others criticize its suitability for professional trading and express concerns about the fairness of the market. Overall, the theme revolves around the users' experiences and perceptions of the app's trading capabilities.",
+      "quotes": [
+        "best trading app I have earned 4 lakh from this app thank you",
+        "Indian Stock Market is fully trap by Institutions, for retail traders, we will not win against them",
+        "do not choose it for your trading profession it is not a good broker"
+      ],
+      "action_ideas": [
+        "Improve the app's features and tools to better support professional traders",
+        "Enhance transparency and education about the market and trading practices to address user concerns",
+        "Optimize the app's user interface and experience to make it more intuitive and user-friendly for all types of traders"
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "theme_name": "App Reliability Issues",
+      "theme_summary": "The overarching theme of these reviews is the unreliability and untrustworthiness of the app, with many users experiencing bugs, slow service, and difficulties with withdrawals. This has led to a loss of trust and frustration among users.",
+      "quotes": [
+        "wrosen than worsen app seen i use groww since long but i observe that now too much bug in app i lost more since deu to this",
+        "don't use it if you want your money to be safe..this app lags too much ,they charge High but app and it's customer support is pathetic",
+        "nice app but withdraw is very slow"
+      ],
+      "action_ideas": [
+        "Conduct a thorough review of the app's infrastructure to identify and fix bugs and performance issues",
+        "Improve the withdrawal process to make it faster and more reliable",
+        "Enhance customer support to better address user concerns and issues"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "theme_name": "Best Trading App",
+      "theme_summary": "Users overwhelmingly praise the app as the best for trading and options, citing its beginner-friendly nature and trustworthiness. The core sentiment is one of high satisfaction and appreciation for the app's services.",
+      "quotes": [
+        "begginers friendly app I had never seen .best app for begginers 👍🫠",
+        "Best application for treding and options treading fast n accurate",
+        "This is the best application to give best service to the traders."
+      ],
+      "action_ideas": [
+        "Continue to enhance the user experience for beginners",
+        "Expand the app's trading and options features to maintain its competitive edge",
+        "Leverage user testimonials in marketing efforts to attract new users"
+      ]
+    }
+  ]
+}
