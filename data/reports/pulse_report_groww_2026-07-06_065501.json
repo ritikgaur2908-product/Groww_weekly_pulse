@@ -1,0 +1,213 @@
+{
+  "product_name": "Groww",
+  "start_date": "2026-05-11T00:00:00",
+  "end_date": "2026-07-06T00:00:00",
+  "stats": {
+    "total_reviews": 500,
+    "average_rating": 3.5
+  },
+  "rating_distribution": {
+    "stars_1": 29.6,
+    "stars_2": 5.4,
+    "stars_3": 3.6,
+    "stars_4": 8.6,
+    "stars_5": 52.8
+  },
+  "themes": [
+    {
+      "cluster_id": 1,
+      "theme_name": "Poor Customer Support",
+      "theme_summary": "The overarching theme of these reviews is the dissatisfaction with the customer care service, citing unhelpful and unresponsive support teams. This has led to a negative experience for many users, causing frustration and a loss of trust in the app.",
+      "quotes": [
+        "worst customer care service",
+        "Customer Support is the worst. Does not help",
+        "I have a very poor experience. Customer Support is pathetic."
+      ],
+      "action_ideas": [
+        "Improve customer support response times and quality of assistance",
+        "Enhance the app's user interface to reduce the need for customer support",
+        "Provide more detailed and personalized support to address user concerns"
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "theme_name": "Excessive Charges",
+      "theme_summary": "Users are unhappy with the high brokerage charges and various other fees associated with using the app, leading to significant losses and a poor trading experience. This has resulted in a strong negative sentiment towards the platform.",
+      "quotes": [
+        "high brokerage charge",
+        "Brokerage is too High compared to other apps",
+        "Charged high brokarege & external charges also CDSL DP charges & charged Brokers dp charges on each trade trasanction daily"
+      ],
+      "action_ideas": [
+        "Review and adjust the brokerage charge structure to be more competitive with other trading apps",
+        "Improve transparency around fees and charges to avoid unexpected deductions",
+        "Enhance the app's performance and reliability to prevent losses due to technical issues"
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "theme_name": "App Quality and Usability",
+      "theme_summary": "The reviews express a mix of positive and negative sentiments about the app, with some users finding it useful for beginners, while others criticize its limitations and potential for overtrading. The feedback highlights the need for improvement in the app's functionality and user experience.",
+      "quotes": [
+        "This app is only for beginners I mean only beginners use this aap but please stop using this aap in your starting journey at a time you will become habituated and then you will find this is worst aap",
+        "charge jada h aap ka",
+        "grow was a best platform in Indian market and minimum brokerage aap"
+      ],
+      "action_ideas": [
+        "Implement features to prevent overtrading and provide better control mechanisms",
+        "Enhance the app's information provision to support informed trading decisions",
+        "Consider revising the pricing strategy to address concerns about high charges"
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "theme_name": "Investment App Issues",
+      "theme_summary": "Users are experiencing various issues with the investment app, including poor technology, unresponsiveness, and unexpected charges. The core sentiment of this theme is one of frustration and distrust with the app's performance and customer service.",
+      "quotes": [
+        "ग्राहक लूटो ट्रेडिंग प्लेटफॉर्म Pls avoid this platform if you want to save your hard earned money",
+        "they have many bugs and they are highly unresponsive",
+        "They did not provide any proper document or report explaining the charges"
+      ],
+      "action_ideas": [
+        "Improve the app's technology to prevent losses due to technical issues",
+        "Enhance customer service responsiveness and provide clear documentation of charges",
+        "Consider adding features such as SIF and detailed info for mutual fund investments"
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "theme_name": "Positive App Experience",
+      "theme_summary": "Users are expressing overall satisfaction with the app, highlighting its niceness, safety, and positive experience. The reviews suggest that the app is meeting user expectations and providing a good trading platform.",
+      "quotes": [
+        "very nice trading app",
+        "Nice safe app",
+        "very nice plateform in limited charges"
+      ],
+      "action_ideas": [
+        "Continue to prioritize user experience and safety in future updates",
+        "Consider highlighting the app's safety features in marketing materials",
+        "Explore ways to further enhance the trading platform and user interface"
+      ]
+    },
+    {
+      "cluster_id": 0,
+      "theme_name": "Ease of Use",
+      "theme_summary": "The majority of users find the app easy to use and navigate, praising its simple UI and intuitive features. However, some users have noticed a recent slowdown in updating portfolios, prompting them to use other applications.",
+      "quotes": [
+        "easy to use and simple UI",
+        "Really great app to use . Ui is very simple and easy to handle as compared to others",
+        "Nowadays, updating portfolios is taking significantly longer than before, which is necessitating the use of other applications."
+      ],
+      "action_ideas": [
+        "Optimize the app's performance to reduce portfolio update times",
+        "Maintain and improve the simplicity and intuitiveness of the UI",
+        "Investigate and resolve the cause of the slowdown in portfolio updates"
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "theme_name": "App Improvement Needed",
+      "theme_summary": "Users are expressing frustration with various aspects of the app, including its interface, functionality, and customer support. The core issue is that the app is not meeting user expectations in terms of usability, features, and reliability.",
+      "quotes": [
+        "better luck next tiem",
+        "Full of bugs , buch of worst IT team and Pathetic service team are managing this",
+        "apart from being simple and easy to use it is the most useless app in terms of interface lagging problems"
+      ],
+      "action_ideas": [
+        "Implement an edit option for existing SIP to change the amount",
+        "Add auto stoploss in scalper terminal and improve the sorting options",
+        "Enhance the app's interface and user experience to reduce lagging issues and improve overall satisfaction"
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "theme_name": "App Performance Issues",
+      "theme_summary": "The overarching theme of these reviews is the users' experience with the app's performance, including issues with balance updates, transaction history, and extra charges. The sentiment is mixed, with some users satisfied and others extremely dissatisfied.",
+      "quotes": [
+        "Even if market closed balance not showing correct amount, it decreased",
+        "Extra charges (Without any reason) .Worst broker alive.",
+        "Now last updation is satisfied because transaction history is clear and correct amount shown in F&O"
+      ],
+      "action_ideas": [
+        "Improve the app's balance update mechanism to ensure real-time accuracy",
+        "Enhance transaction history clarity and transparency",
+        "Review and refine the charging mechanism to prevent unexpected extra charges"
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "theme_name": "App Performance Issues",
+      "theme_summary": "The overarching theme of these reviews is the inconsistent quality and performance of the Grow app, with users experiencing a range of issues from latency and glitches to difficulties with IPO allocation and order charges. This has led to a divided sentiment among users, with some praising the app's ease of use and others condemning its reliability.",
+      "quotes": [
+        "Grow should be renamed as Glitch!",
+        "worst trading application. too much latency issues.",
+        "Very bad brocker not refer to grow app ....it's not you life grow up its always grow down me apply ipo this app no one IPO not allocated brocker not manage IPO currectly"
+      ],
+      "action_ideas": [
+        "Optimize the app for better performance and fewer glitches",
+        "Improve the IPO allocation process and provide clearer communication about order charges",
+        "Consider reverting certain features to previous versions or offering options for customization to meet different user needs"
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "theme_name": "Order Execution Issues",
+      "theme_summary": "Users are experiencing problems with the app's order execution, including auto-triggered orders, price discrepancies, and slow execution speeds, leading to significant losses. These issues are causing frustration and distrust among users.",
+      "quotes": [
+        "orders auto triggered even when price is near but not engaged with your limit price",
+        "when you buy the stocks in groww it buys at high even though the price is not moved that much",
+        "Disappointed with the order execution speed. There is a consistent price gap of ₹2-₹3 between the price I order at and the price I get"
+      ],
+      "action_ideas": [
+        "Improve order execution algorithms to reduce slippage and ensure orders are executed at the desired price",
+        "Enhance the app's user interface to provide clearer feedback on order status and execution prices",
+        "Increase the transparency of order execution processes and provide more detailed explanations for users"
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "theme_name": "Trading App Experience",
+      "theme_summary": "Users have expressed a range of sentiments about their experience with the trading app, from praise for its ease of use and profitability to frustration with technical issues and concerns about the fairness of the trading system. The feedback highlights both the app's strengths and areas for improvement.",
+      "quotes": [
+        "best trading app I have earned 4 lakh from this app thank you",
+        "ट्रेड घेतला की अँप हँग होतो आणि प्रत्येक वेळेस अँप मध्येच बंद पडतो",
+        "One of the best trading apps for beginners, and now equally great for professional traders"
+      ],
+      "action_ideas": [
+        "Optimize the app's performance to prevent hanging and crashes, especially during trading",
+        "Enhance customer support to address user concerns and improve overall satisfaction",
+        "Consider implementing features that promote fair trading practices and protect retail traders"
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "theme_name": "Trust and Withdrawal Issues",
+      "theme_summary": "Users are expressing frustration and distrust with the app's withdrawal process, citing slow or impossible withdrawals and concerns about the app's legitimacy. This has led to a loss of faith in the app's ability to deliver on its promises.",
+      "quotes": [
+        "unable to withdraw",
+        "withdraw money cheater",
+        "nice app but withdraw is very slow"
+      ],
+      "action_ideas": [
+        "Investigate and resolve withdrawal issues to improve user trust",
+        "Improve transparency around investment risks and app conditions",
+        "Optimize app performance during trading hours to reduce hangs and crashes"
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "theme_name": "Best App Experience",
+      "theme_summary": "Users overwhelmingly express satisfaction with the app, considering it the best in its category. The sentiment is extremely positive, with many users appreciating its performance and service.",
+      "quotes": [
+        "best of best",
+        "Best app ever",
+        "This is the best application to give best service to the traders."
+      ],
+      "action_ideas": [
+        "Continue to enhance and expand the app's features to maintain its competitive edge",
+        "Leverage user testimonials in marketing campaigns to attract new users",
+        "Monitor and address any potential issues to ensure the app continues to meet high user expectations"
+      ]
+    }
+  ]
+}
