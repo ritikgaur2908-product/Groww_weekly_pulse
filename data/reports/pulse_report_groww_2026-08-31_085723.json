@@ -1,0 +1,109 @@
+{
+  "product_name": "Groww",
+  "start_date": "2026-07-06T00:00:00",
+  "end_date": "2026-08-31T00:00:00",
+  "stats": {
+    "total_reviews": 500,
+    "average_rating": 3.5
+  },
+  "rating_distribution": {
+    "stars_1": 29.6,
+    "stars_2": 5.4,
+    "stars_3": 3.6,
+    "stars_4": 8.6,
+    "stars_5": 52.8
+  },
+  "themes": [
+    {
+      "cluster_id": 1,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 10,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 2,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 5,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 11,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 0,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 7,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 9,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 12,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 6,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 3,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 8,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    },
+    {
+      "cluster_id": 4,
+      "theme_name": "Unsummarized Cluster",
+      "theme_summary": "Failed to summarize.",
+      "quotes": [],
+      "action_ideas": []
+    }
+  ]
+}
